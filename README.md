@@ -20,6 +20,9 @@ Acesso a plataforma: [DIO](https://dio.me)
 - [Licença](#licenca)
 - [Autor](#autor)
 
+## Introdução ▶️⚡
+
+
 ## Tecnologias utilizadas no projeto 💻
 
 - [ChatGPT](https://chat.openai.com/) -- Geração de conteúdo e imagens
