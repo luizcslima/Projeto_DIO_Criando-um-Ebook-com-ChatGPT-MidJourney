@@ -73,7 +73,19 @@ Acesso à plataforma: [DIO](https://dio.me)
 
 >8️⃣  **PROMPT #7 [COPILOT], [ChatGPT], [ImagineArt]:**
 >Desenvolva uma capa para e-book focado em validação de sistemas computadorizados na indústria farmacêutica. A imagem deve mostrar um laboratório moderno com computadores e equipamentos de teste, destacando a precisão e a confiabilidade da tecnologia na indústria farmacêutica. A estética deve ser profissional e realista, com alta resolução, adequada para profissionais e executivos do setor.
+>>**Output escolhidos:** Os outputs escolhidos estão na pasta `<nome_da_pasta>`.
+>>Copilot -- Gerou 1 imagem
+>>ChatGPT -- Gerou 1 imagem
+>>ImagineArt -- Gerou 4 imagens, duas foram escolhidas
+>>>ℹ️ **NOTA_6:** O ImagineArt possui configurações para ajuste da geração das imagens. As relevantes para geração de imagens similares foram Models: "Realism"; Aspect Ratio: "9:16"; Effects/Lighthing: "Silhouette".
+<br/>
 
+>9️⃣  **PROMPT #8 [COPILOT], [ChatGPT]:**
+>"Função: Crie uma estrutura de tópicos para um e-book no tema de validação de sistemas computadorizados para a indústria farmacêutica. Tópico: Validação de sistemas computadorizados na indústria farmacêutica. Ação: Gerar 4 estruturas de tópicos que podem ser utilizados para gerar uma estrutura de tópicos para e-book no tema de validação de sistemas computadorizados para a indústria farmacêutica. Expectativa: > A estrutura de tópicos deve incluir os tópicos do tema em si, mas também outros itens como introdução, conclusão, chamada para ação, autor, tais como um livro. > O público-alvo do e-book são analistas de validação de sistemas computadorizados, analista de garantira da qualidade, executivos e donos de empresas que se interessam na contratação de serviçoes de validação de sistemas computadorizados. > Considere o processo de validação de sistemas computadorizados preconizados pelo FDA, ANVISA, GAMP 5, EMA e PMDA."
+>>**Output escolhido:**
+
+>1️⃣0️⃣  **AÇÃO #2:**
+>Estruturação do e-book utilizando o Microsoft Power Point. 
 
 ## Introdução ▶️⚡
 <p align="justify">
