@@ -38,7 +38,7 @@ Acesso à plataforma: [DIO](https://dio.me)
 ## Passo-a-Passo
 
 > 1️⃣ **PROMPT #1 [COPILOT]:**
-> "Copilot, você agora é um especialista em github, prompt engineering, chatgpt, copilot, imagineArt, powerpoints, escritor de artigos, especialista em validação de sistemas computadorizados e elaboração de e-books."
+> Copilot, você agora é um especialista em github, prompt engineering, chatgpt, copilot, imagineArt, powerpoints, escritor de artigos, especialista em validação de sistemas computadorizados e elaboração de e-books.
 <br/>
 
 > 2️⃣ **PROMPT #2 [COPILOT]:**
@@ -62,7 +62,13 @@ Acesso à plataforma: [DIO](https://dio.me)
 <br/>
 
 >6️⃣  **AÇÃO #1:**
->Devido a pausa na elboração do projeto, reexecução de todos os prompts anteriores no Copilot em uma nova conversa para deixa-lo no mesmo contexto.
+>Devido a pausa na elboração do projeto, reexecução de todos os prompts anteriores no Copilot em uma nova conversa para deixa-lo no mesmo contexto. (Opcional, interessante para testar como a ferramenta se comporta)
+>>ℹ️ **NOTA_5:** As respostas próximas, mas não iguais. Mantiveram-se os resultados obtidos anteriormente.
+<br/>
+
+>7️⃣  **PROMPT #6 [COPILOT]:**
+>"Função: Escrever um prompt para gerar uma imagem para a capa de um e-book no tema de validação de sistemas computadorizados para a indústria farmacêutica. Tópico: Validação de sistemas computadorizados na indústria farmacêutica. Ação: Gerar 4 prompts que podem ser utilizados para gerar uma imagem para a capa de um e-book no tema de validação de sistemas computadorizados para a indústria farmacêutica. Expectativa: > O prompt deve ser de fácil entendimento para as ferramentas Copilot, ChatGPT e ImagineArt (alternativa ao MidJourney) > O prompt deve ser capaz de fazer essas ferramentas gerarem imagens profissionais e realistas. > O público-alvo das imagens que o prompt deve gerar são analistas de validação de sistemas computadorizados, analista de garantira da qualidade, executivos e donos de empresas que se interessam na contratação de serviçoes de validação de sistemas computadorizados. > A imagem deve ser suficientemente boa para ser parte de um e-book preparado em power point. > A imagem deve ter uma alta resolução."
+>>**Output escolhido:** Prompt 2: "Desenvolva uma capa para e-book focado em validação de sistemas computadorizados na indústria farmacêutica. A imagem deve mostrar um laboratório moderno com computadores e equipamentos de teste, destacando a precisão e a confiabilidade da tecnologia na indústria farmacêutica. A estética deve ser profissional e realista, com alta resolução, adequada para profissionais e executivos do setor."
 
 
 ## Introdução ▶️⚡
