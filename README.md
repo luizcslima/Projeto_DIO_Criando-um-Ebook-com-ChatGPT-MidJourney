@@ -54,10 +54,12 @@ Acesso à plataforma: [DIO](https://dio.me)
 > 4️⃣ **PROMPT #4 [COPILOT]:**
 >Função: Gere uma introdução para o trabalho que faz parte de um dos entregáveis do bootcamp "CAIXA - IA Generativa com Microsoft Copilot" da DIO, especificamente da seção "Projetos Práticos com IA" e consiste na criação de um e-book usando ferramentas de inteligência artificial. Tópico: Uso de inteligência artificial para criação de e-books. Ação: Gere uma introdução para o projeto que consiste no uso de inteligência artificial para a criação de e-books. Expectativa: A expectativa é a que a introdução gerada tenha carater de artigo científico ou seja, formal, que será públicado em uma revista internacional que foca em inteligência artificial. Ela deve abordar tópicos descrevendo o que é inteligência artificial, como ela surgiu, sua importância nos dias atuais, aplicações do dia-a-dia, focando na elaboração de e-books.
 > >**Output**: O output gerado foi inserido na seção "Introdução", com ajustes na correção de palavras tais como "artigo" e "projeto" para "trabalho" e contexto de apresentação de uma revista científica para o GitHuB.
+<br/>
 
 >5️⃣  **PROMPT #5 [COPILOT]:**
 >Documente a metodologia do que fizemos até aqui com base nos prompts anteriores. Apenas gere os títulos principais numerados.
 >>**Output**: O output gerado foi inserido na seção "Metodologia - Documentada pelas IAs"
+<br/>
 
 
 ## Introdução ▶️⚡
