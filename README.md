@@ -146,7 +146,7 @@ Ao focar na elaboração de e-books, este trabalho visa não apenas ilustrar o p
 
 ## Resultados 🔎📊
 <p align="justify">
-O resultado do presente trabalho foi a introdução presente nesse arquivo readme.md e o e-book "<nome_do_e-book>", que se encontra na pasta `<nome_da_pasta>`.
+O resultado do presente trabalho foi a introdução presente nesse arquivo readme.md e o e-book `<nome_ebook>`, que se encontra na pasta `<nome_da_pasta>` .
 </p>
 
 ## Discussão 📑
