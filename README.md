@@ -13,7 +13,7 @@ Acesso à plataforma: [DIO](https://dio.me)
 > ℹ️ **NOTA_2:** As IAs mencionadas serão utilizadas de forma a criar o trabalho como um todo, por isso as ferramentas utilizadas e o passo-a-passo vêm antes da introdução. A idea é realmente explorar o quanto o trabalho pode ser exclusivamente por IA.
 <br/>
 
-> ℹ️ **NOTA_3:** Não serão inseridas as respostas fornecidas pelos prompts a fim de não poluir o README.md
+> ℹ️ **NOTA_3:** Não serão inseridas todas as respostas fornecidas pelos prompts a fim de não poluir o README.md
 
 ## Índice 🗃️
 - [Tecnologias utilizadas no projeto](#tecnologias_utilizadas_no_projeto)
@@ -37,26 +37,26 @@ Acesso à plataforma: [DIO](https://dio.me)
 1️⃣2️⃣3️⃣4️⃣5️⃣6️⃣7️⃣8️⃣9️⃣
 ## Passo-a-Passo
 
-> 1️⃣ **PROMPT #1 [COPILOT]:**
+> 1️⃣ **PROMPT #1 [COPILOT] - Usando "Act Commands" para direcionar e explorar as capacidades da ferramenta:**
 > Copilot, você agora é um especialista em github, prompt engineering, chatgpt, copilot, imagineArt, powerpoints, escritor de artigos, especialista em validação de sistemas computadorizados e elaboração de e-books.
 <br/>
 
-> 2️⃣ **PROMPT #2 [COPILOT]:**
+> 2️⃣ **PROMPT #2 [COPILOT] - Estruturando a base de prompts:**
 > Crie uma estrutura de prompt utilizando a técnica FTAE para que eu possa fazer prompts mais precisos para o projeto que vamos construir.
 <br/>
 
-> 3️⃣ **PROMPT #3 [COPILOT]:**
+> 3️⃣ **PROMPT #3 [COPILOT] - Geração de títulos:**
 > Função: Gerar títulos criativos para um novo e-book de validação de sistemas computadorizados. Tópico: Validação de sistemas computadorizados na indústria farmacêutica. Ação: Liste 10 títulos inovadores que vão capturar a atenção do leitor. Expectativa: Liste 10 títulos inovadores que vão capturar a atenção do leitor / público-alvo (profissionais de validação de sistemas computadorizados, de garantia da qualidades e/ou executivos interessados em saber e adquirir prestação de serviços no tema).
 > >**Output escolhido:** "Garantia Digital: Estratégias de Validação para Sistemas Computadorizados"
 >>>ℹ️ **NOTA_4:** O que foi ensinado na DIO é que FTAE significa função, tipo de texto, assunto e estilo.
 <br/>
 
-> 4️⃣ **PROMPT #4 [COPILOT]:**
+> 4️⃣ **PROMPT #4 [COPILOT] - Geração de uma introdução para o trabalho da DIO:**
 >Função: Gere uma introdução para o trabalho que faz parte de um dos entregáveis do bootcamp "CAIXA - IA Generativa com Microsoft Copilot" da DIO, especificamente da seção "Projetos Práticos com IA" e consiste na criação de um e-book usando ferramentas de inteligência artificial. Tópico: Uso de inteligência artificial para criação de e-books. Ação: Gere uma introdução para o projeto que consiste no uso de inteligência artificial para a criação de e-books. Expectativa: A expectativa é a que a introdução gerada tenha carater de artigo científico ou seja, formal, que será públicado em uma revista internacional que foca em inteligência artificial. Ela deve abordar tópicos descrevendo o que é inteligência artificial, como ela surgiu, sua importância nos dias atuais, aplicações do dia-a-dia, focando na elaboração de e-books.
 > >**Output**: O output gerado foi inserido na seção "Introdução", com ajustes na correção de palavras tais como "artigo" e "projeto" para "trabalho" e contexto de apresentação de uma revista científica para o GitHuB.
 <br/>
 
->5️⃣  **PROMPT #5 [COPILOT]:**
+>5️⃣  **PROMPT #5 [COPILOT] - Geração da metodologia do projeto (ideia cancelada):**
 >Documente a metodologia do que fizemos até aqui com base nos prompts anteriores. Apenas gere os títulos principais numerados.
 >>**Output**: O output gerado foi inserido na seção "Metodologia - Documentada pelas IAs"
 <br/>
@@ -67,7 +67,7 @@ Acesso à plataforma: [DIO](https://dio.me)
 <br/>
 
 >7️⃣  **PROMPT #6 [COPILOT]:**
->"Função: Escrever um prompt para gerar uma imagem para a capa de um e-book no tema de validação de sistemas computadorizados para a indústria farmacêutica. Tópico: Validação de sistemas computadorizados na indústria farmacêutica. Ação: Gerar 4 prompts que podem ser utilizados para gerar uma imagem para a capa de um e-book no tema de validação de sistemas computadorizados para a indústria farmacêutica. Expectativa: > O prompt deve ser de fácil entendimento para as ferramentas Copilot, ChatGPT e ImagineArt (alternativa ao MidJourney) > O prompt deve ser capaz de fazer essas ferramentas gerarem imagens profissionais e realistas. > O público-alvo das imagens que o prompt deve gerar são analistas de validação de sistemas computadorizados, analista de garantira da qualidade, executivos e donos de empresas que se interessam na contratação de serviçoes de validação de sistemas computadorizados. > A imagem deve ser suficientemente boa para ser parte de um e-book preparado em power point. > A imagem deve ter uma alta resolução."
+>"Função: Escrever um prompt para gerar uma imagem para a capa de um e-book no tema de validação de sistemas computadorizados para a indústria farmacêutica. Tópico: Validação de sistemas computadorizados na indústria farmacêutica. Ação: Gerar 4 prompts que podem ser utilizados para gerar uma imagem para a capa de um e-book no tema de validação de sistemas computadorizados para a indústria farmacêutica. Expectativa: > O prompt deve ser de fácil entendimento para as ferramentas Copilot, ChatGPT e ImagineArt (alternativa ao MidJourney) > O prompt deve ser capaz de fazer essas ferramentas gerarem imagens profissionais e realistas. > O público-alvo das imagens que o prompt deve gerar são analistas de validação de sistemas computadorizados, analista de garantira da qualidade, executivos e donos de empresas que se interessam na contratação de serviços de validação de sistemas computadorizados. > A imagem deve ser suficientemente boa para ser parte de um e-book preparado em power point. > A imagem deve ter uma alta resolução."
 >>**Output escolhido:** Prompt 2: "Desenvolva uma capa para e-book focado em validação de sistemas computadorizados na indústria farmacêutica. A imagem deve mostrar um laboratório moderno com computadores e equipamentos de teste, destacando a precisão e a confiabilidade da tecnologia na indústria farmacêutica. A estética deve ser profissional e realista, com alta resolução, adequada para profissionais e executivos do setor."
 <br/>
 
@@ -81,11 +81,45 @@ Acesso à plataforma: [DIO](https://dio.me)
 <br/>
 
 >9️⃣  **PROMPT #8 [COPILOT], [ChatGPT]:**
->"Função: Crie uma estrutura de tópicos para um e-book no tema de validação de sistemas computadorizados para a indústria farmacêutica. Tópico: Validação de sistemas computadorizados na indústria farmacêutica. Ação: Gerar 4 estruturas de tópicos que podem ser utilizados para gerar uma estrutura de tópicos para e-book no tema de validação de sistemas computadorizados para a indústria farmacêutica. Expectativa: > A estrutura de tópicos deve incluir os tópicos do tema em si, mas também outros itens como introdução, conclusão, chamada para ação, autor, tais como um livro. > O público-alvo do e-book são analistas de validação de sistemas computadorizados, analista de garantira da qualidade, executivos e donos de empresas que se interessam na contratação de serviçoes de validação de sistemas computadorizados. > Considere o processo de validação de sistemas computadorizados preconizados pelo FDA, ANVISA, GAMP 5, EMA e PMDA."
->>**Output escolhido:**
+>"Função: Crie uma estrutura de tópicos para um e-book no tema de validação de sistemas computadorizados para a indústria farmacêutica. Tópico: Validação de sistemas computadorizados na indústria farmacêutica. Ação: Gerar 4 estruturas de tópicos que podem ser utilizados para gerar uma estrutura de tópicos para e-book no tema de validação de sistemas computadorizados para a indústria farmacêutica. Expectativa: > A estrutura de tópicos deve incluir os tópicos do tema em si, mas também outros itens como introdução, conclusão, chamada para ação, autor, tais como um livro. > O público-alvo do e-book são analistas de validação de sistemas computadorizados, analista de garantira da qualidade, executivos e donos de empresas que se interessam na contratação de serviços de validação de sistemas computadorizados. > Considere o processo de validação de sistemas computadorizados preconizados pelo FDA, ANVISA, GAMP 5, EMA e PMDA."
+>>**Output escolhido:** [Copilot] -- Estrutura de Tópicos 3
+>>1.	Introdução
+>>o	Contextualização
+>>o	Objetivo do E-Book
+>>2.	Histórico e Contexto Regulatório
+>>o	Evolução da Validação de Sistemas
+>>o	Principais Regulamentações (FDA, ANVISA, GAMP 5, EMA, PMDA)
+>>3.	Princípios e Metodologias de Validação
+>>o	Fundamentos da Validação
+>>o	Ciclo de Vida da Validação
+>>o	Documentação Essencial
+>>4.	Ferramentas e Tecnologias de Validação
+>>o	Plataformas de Software
+>>o	Automação e IA na Validação
+>>o	Exemplos de Implementação
+>>5.	Casos de Estudo e Aplicações Práticas
+>>o	Aplicação em Empresas Farmacêuticas
+>>o	Desafios e Soluções
+>>6.	Tendências Futuras na Validação
+>>o	Novas Tecnologias e Inovações
+>>o	Impactos no Setor Farmacêutico
+>>7.	Conclusão
+>>o	Recapitulação dos Principais Pontos
+>>o	Considerações Finais
+>>8.	Chamada para Ação
+>>o	Encorajamento e Próximos Passos
+>>9.	Sobre o Autor
+>>o	Biografia e Credenciais
+>>o	Contato e Outras Obras
 
 >1️⃣0️⃣  **AÇÃO #2:**
->Estruturação do e-book utilizando o Microsoft Power Point. 
+>Estruturação do e-book utilizando o Microsoft Power Point.
+
+>1️⃣1️⃣  **PROMPT #9 [COPILOT], [ChatGPT]:**
+>
+
+>1️⃣2️⃣  **AÇÃO #2:**
+>Formatação e finalização do e-book utilizando os outputs gerados pela ferramenta de IA e o Microsoft Power Point. 
 
 ## Introdução ▶️⚡
 <p align="justify">
@@ -106,17 +140,23 @@ Ao focar na elaboração de e-books, este trabalho visa não apenas ilustrar o p
 2. Geração de Títulos Criativos<br/>
 3. Elaboração de Introdução Formal para e-Book<br/>
 
+>ℹ️ **NOTA_X:** Ideia cancelada devido ao uso de múltiplas ferramentas de IA, o que quebra o fluxo de ações.
 
 </p>
 
 ## Resultados 🔎📊
 <p align="justify">
-  
+O resultado do presente trabalho foi a introdução presente nesse arquivo readme.md e o e-book "<nome_do_e-book>", que se encontra na pasta `<nome_da_pasta>`.
 </p>
 
 ## Discussão 📑
 <p align="justify">
   
+>ℹ️ **NOTA_X:** A discussão aqui fornecida não foi gerada por ferramentas de IA. Caso contrário, perderia o propósito de discutir o uso da IA em si para a preparação do e-book e partes desse trabalho/projeto.
+
+
+
+
 </p>
 
 ## Conclusão 📝💡
