@@ -77,9 +77,9 @@ Ao focar na elaboração de e-books, este trabalho visa não apenas ilustrar o p
 
 ## Metodologia - Documentada pelas IAs 📖
 <p align="justify">
-1. Estruturação do Prompt Usando a Técnica FTAE
-2. Geração de Títulos Criativos
-3. Elaboração de Introdução Formal para e-Book
+1. Estruturação do Prompt Usando a Técnica FTAE<br/>
+2. Geração de Títulos Criativos<br/>
+3. Elaboração de Introdução Formal para e-Book<br/>
 
 
 </p>
