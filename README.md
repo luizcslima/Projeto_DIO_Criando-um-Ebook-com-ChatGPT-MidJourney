@@ -31,21 +31,36 @@ Acesso a plataforma: [DIO](https://dio.me)
 - [PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoint) -- Ferramenta de diagramação
 
 ## Metodologia 📖
-
+<p align="justify">
+  
+</p>
 
 ## Resultados 🔎📊
-
+<p align="justify">
+  
+</p>
 
 ## Discussão 📑
-
+<p align="justify">
+  
+</p>
 
 ## Conclusão 📝💡
-
+<p align="justify">
+  
+</p>
 
 ## Referências Úteis 📚
-
+<p align="justify">
+  
+</p>
 
 ## Licença 📄
-
+<p align="justify">
+  
+</p>
 
 ## Autor 🤓
+<p align="justify">
+  
+</p>
