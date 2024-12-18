@@ -61,6 +61,9 @@ Acesso à plataforma: [DIO](https://dio.me)
 >>**Output**: O output gerado foi inserido na seção "Metodologia - Documentada pelas IAs"
 <br/>
 
+>6️⃣  **AÇÃO #1:**
+>Devido a pausa na elboração do projeto, reexecução de todos os prompts anteriores no Copilot em uma nova conversa para deixa-lo no mesmo contexto.
+
 
 ## Introdução ▶️⚡
 <p align="justify">
