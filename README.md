@@ -76,7 +76,7 @@ Acesso à plataforma: [DIO](https://dio.me)
 >>**Output escolhidos:** Os outputs escolhidos estão na pasta `<nome_da_pasta>`.
 >>Copilot -- Gerou 1 imagem
 >>ChatGPT -- Gerou 1 imagem
->>ImagineArt -- Gerou 4 imagens, duas foram escolhidas
+>>ImagineArt -- Gerou 4 imagens
 >>>ℹ️ **NOTA_6:** O ImagineArt possui configurações para ajuste da geração das imagens. As relevantes para geração de imagens similares foram Models: "Realism"; Aspect Ratio: "9:16"; Effects/Lighthing: "Silhouette".
 <br/>
 
@@ -171,8 +171,8 @@ O resultado do presente trabalho foi a introdução presente nesse arquivo readm
 
 ## Licença 📄
 <p align="justify">
-Os ícones utilizados no e-book são provenientes do site [IconArchive](https://www.iconarchive.com/). Eles não são de minha autoria!
-The icons used in the e-book are from the website [IconArchive](https://www.iconarchive.com/). They are not my authorship.
+Os ícones utilizados no e-book são provenientes do site [IconArchive](https://www.iconarchive.com). Eles não são de minha autoria!
+The icons used in the e-book are from the website [IconArchive](https://www.iconarchive.com). They are not my authorship.
 </p>
 
 ## Autor 🤓
