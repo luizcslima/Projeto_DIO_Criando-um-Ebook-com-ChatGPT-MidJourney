@@ -171,7 +171,8 @@ O resultado do presente trabalho foi a introdução presente nesse arquivo readm
 
 ## Licença 📄
 <p align="justify">
-  
+Os ícones utilizados no e-book são provenientes do site [IconArchive](https://www.iconarchive.com/). Eles não são de minha autoria!
+The icons used in the e-book are from the website [IconArchive](https://www.iconarchive.com/). They are not my authorship.
 </p>
 
 ## Autor 🤓
