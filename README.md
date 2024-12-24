@@ -84,36 +84,39 @@ Acesso à plataforma: [DIO](https://dio.me)
 >"Função: Crie uma estrutura de tópicos para um e-book no tema de validação de sistemas computadorizados para a indústria farmacêutica. Tópico: Validação de sistemas computadorizados na indústria farmacêutica. Ação: Gerar 4 estruturas de tópicos que podem ser utilizados para gerar uma estrutura de tópicos para e-book no tema de validação de sistemas computadorizados para a indústria farmacêutica. Expectativa: > A estrutura de tópicos deve incluir os tópicos do tema em si, mas também outros itens como introdução, conclusão, chamada para ação, autor, tais como um livro. > O público-alvo do e-book são analistas de validação de sistemas computadorizados, analista de garantira da qualidade, executivos e donos de empresas que se interessam na contratação de serviços de validação de sistemas computadorizados. > Considere o processo de validação de sistemas computadorizados preconizados pelo FDA, ANVISA, GAMP 5, EMA e PMDA."
 >>**Output escolhido:** [Copilot] -- Estrutura de Tópicos 3
 >>1.	Introdução
->>o	Contextualização
->>o	Objetivo do E-Book
+>> - Contextualização
+>> - Objetivo do E-Book
 >>2.	Histórico e Contexto Regulatório
->>o	Evolução da Validação de Sistemas
->>o	Principais Regulamentações (FDA, ANVISA, GAMP 5, EMA, PMDA)
+>> - Evolução da Validação de Sistemas
+>> - Principais Regulamentações (FDA, ANVISA, GAMP 5, EMA, PMDA)
 >>3.	Princípios e Metodologias de Validação
->>o	Fundamentos da Validação
->>o	Ciclo de Vida da Validação
->>o	Documentação Essencial
+>> - Fundamentos da Validação
+>> - Ciclo de Vida da Validação
+>> - Documentação Essencial
 >>4.	Ferramentas e Tecnologias de Validação
->>o	Plataformas de Software
->>o	Automação e IA na Validação
->>o	Exemplos de Implementação
+>> - Plataformas de Software
+>> - Automação e IA na Validação
+>> - Exemplos de Implementação
 >>5.	Casos de Estudo e Aplicações Práticas
->>o	Aplicação em Empresas Farmacêuticas
->>o	Desafios e Soluções
+>> - Aplicação em Empresas Farmacêuticas
+>> - Desafios e Soluções
 >>6.	Tendências Futuras na Validação
->>o	Novas Tecnologias e Inovações
->>o	Impactos no Setor Farmacêutico
+>> - Novas Tecnologias e Inovações
+>> - Impactos no Setor Farmacêutico
 >>7.	Conclusão
->>o	Recapitulação dos Principais Pontos
->>o	Considerações Finais
+>> - Recapitulação dos Principais Pontos
+>> - Considerações Finais
 >>8.	Chamada para Ação
->>o	Encorajamento e Próximos Passos
+>> - Encorajamento e Próximos Passos
 >>9.	Sobre o Autor
->>o	Biografia e Credenciais
->>o	Contato e Outras Obras
+>> - Biografia e Credenciais
+>> - Contato e Outras Obras
+>>>ℹ️ **NOTA_7:** Alguns capítulos / tópicos foram removidos na formatação final.
+<br/>
 
 >1️⃣0️⃣  **AÇÃO #2:**
 >Estruturação do e-book utilizando o Microsoft Power Point.
+<br/>
 
 >1️⃣1️⃣  **PROMPT #9 [COPILOT], [ChatGPT]:** (Múltiplos prompts alterando apenas o tema desejado para a parte em questão)
 >>"Aja como um especialista em validação de sistemas computadorizados, escritor de e-books e especialista em marketing digital.
@@ -124,11 +127,27 @@ Ação: Gerar 4 exemplos de textos que poder ser utilizados para falar do <Capí
 Expectativa: > Explique sempre de uma maneira técnica, mas simples. > Deixe o texto enxuto > Sempre que possível, traga exemplos, exceto para tópicos que não fazem sentido trazer exemplos, como introdução, contextualização do e-book, agradecimentos e relacionados. > Use fontes confiáveis, como FDA, ANVISA, EMEA, INVIMA, DIGEMID, PMDA, GAMP 5, WHO entre outras. > Itere e confira 10 vezes a resposta antes de gerar o texto, que deve ser cativante para o leitor."
 >>> Capítulos / temas:
 >>> - Introdução / Contextualização
->>> - 
+>>> - Histórico e Contexto Regulatório /  Evolução da Validação de Sistemas
+>>> - Princípios e Metodologias de Validação / Fundamentos da Validação
+>>> - Princípios e Metodologias de Validação / Ciclo de Vida da Validação
+>>> - Princípios e Metodologias de Validação / Documentação Essencial
+>>> - Ferramentas e Tecnologias de Validação / Plataformas de Software
+>>> - Ferramentas e Tecnologias de Validação / Automação e IA na Validação
+>>> - Ferramentas e Tecnologias de Validação / Exemplos de Implementação
+>>> - Casos de Estudo e Aplicações Práticas / Aplicação em Empresas Farmacêuticas
+>>> - Casos de Estudo e Aplicações Práticas / Desafios e Soluções
+>>> - Tendências Futuras na Validação / Novas Tecnologias e Inovações
+>>> - Tendências Futuras na Validação / Impactos no Setor Farmacêutico
+>>> - Conclusão / Recapitulação dos Principais Pontos
+>>> - Conclusão / Considerações Finais
+>>> - Agradecimentos / Encorajamento e Próximos Passos
 
+>>>>**Output escolhido:** Textos ChatGPT, que se encontram no e-book. (As respostas do ChatGPT foram mais precisas que as do Copilot)
+<br/>
 
 >1️⃣2️⃣  **AÇÃO #3:**
->Formatação e finalização do e-book utilizando os outputs gerados pela ferramenta de IA e o Microsoft Power Point. 
+>Formatação e finalização do e-book utilizando os outputs gerados pela ferramenta de IA e o Microsoft Power Point.
+<br/> 
 
 ## Introdução ▶️⚡
 <p align="justify">
