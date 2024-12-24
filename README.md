@@ -137,16 +137,15 @@ Expectativa: > Explique sempre de uma maneira técnica, mas simples. > Deixe o t
 >>> - Casos de Estudo e Aplicações Práticas / Aplicação em Empresas Farmacêuticas
 >>> - Casos de Estudo e Aplicações Práticas / Desafios e Soluções
 >>> - Tendências Futuras na Validação / Novas Tecnologias e Inovações
->>> - Tendências Futuras na Validação / Impactos no Setor Farmacêutico
->>> - Conclusão / Recapitulação dos Principais Pontos
->>> - Conclusão / Considerações Finais
->>> - Agradecimentos / Encorajamento e Próximos Passos
+>>> - Conclusão / Recapitulação dos Principais Pontos e Considerações Finais
 
 >>>>**Output escolhido:** Textos ChatGPT, que se encontram no e-book. (As respostas do ChatGPT foram mais precisas que as do Copilot)
 <br/>
 
 >1️⃣2️⃣  **AÇÃO #3:**
->Formatação e finalização do e-book utilizando os outputs gerados pela ferramenta de IA e o Microsoft Power Point.
+>Formatação e finalização do e-book utilizando os outputs gerados pela ferramenta de IA, alguns de cunho próprio (parte de avisos, agradecimentos, ferramentas utilizadas e sobre o autor) e o Microsoft Power Point.
+>Upload de arquivos para o GitHub.
+>Finalização das seções presentes na página (resultados, discussão, conclusão, autor)
 <br/> 
 
 ## Introdução ▶️⚡
