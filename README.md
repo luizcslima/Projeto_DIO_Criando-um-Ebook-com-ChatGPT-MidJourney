@@ -31,7 +31,7 @@ Acesso à plataforma: [DIO](https://dio.me)
 
 - [ChatGPT](https://chat.openai.com/) -- Geração de conteúdo e imagens
 - [Copilot](https://copilot.microsoft.com/) -- Geração de conteúdo e imagens
-- [ImagineArt](https://www.imagine.art) -- Geração de imagens
+- [ImagineArt](https://www.imagine.art) -- Geração de imagens (substituto do MidJourney)
 - [PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoint) -- Ferramenta de diagramação
 
 1️⃣2️⃣3️⃣4️⃣5️⃣6️⃣7️⃣8️⃣9️⃣
@@ -174,28 +174,50 @@ Ao focar na elaboração de e-books, este trabalho visa não apenas ilustrar o p
 ## Resultados 🔎📊
 <p align="justify">
 O resultado do presente trabalho foi a introdução presente nesse arquivo readme.md e o e-book "PROJETO E-BOOK DIO - Validação para Sistemas Computadorizados - Luiz Lima.pdf", que se encontra na pasta "outputs" de respositório.
+As imagens geradas por IA e ícones utilizados no e-book também se encontram na mesma localização.  
 </p>
 
 >ℹ️ **NOTA_9:** O título do e-book foi alterado por não conter propriamente "estratégias" para a validação de sistemas computadorizados.
 
 ## Discussão 📑
 <p align="justify">
-  
 >ℹ️ **NOTA_10:** A discussão aqui fornecida não foi gerada por ferramentas de IA. Caso contrário, perderia o propósito de discutir o uso da IA em si para a preparação do e-book e partes desse trabalho/projeto.
 
+> Ao preparar o e-book com auxílio de ferramentas de IA, houve uma sinergia com o conteúdo apresentado durante o bootcamp "CAIXA - IA Generativa com Microsoft Copilot" da DIO, especificamente da seção "Projetos Práticos com IA" onde as expectativas foram estabelecidas logo de início:
 
+> - As ferramentas de IA são **ferramentas** para auxílio e aumento da produtividade (pelo menos no momento atual em que esse trabalho foi elaborado).
+> - As ferramentas de IA possuem um resultado que pode ser refinado e aproveitado muito melhor por alguém que possui conhecimento do tema sendo tratado, onde o indivíduo com conhecimento da temática será capaz de definir a qualidade dos outputs gerados pela IA e refinar os propmts conforme a necessidade para resultados mais interessantes.
 
+> O e-book gerado para esse projeto em si não teve seus resultados muito corrigidos, ao invés disso, foi solicitado às ferramentas de IA a geração de múltiplos outputs a partir de um mesmo prompt para que fosse possível eleger e/ou combinar os resultados obtidos.
 
+> Foi possível notar que técnicas de elaboração de prompts, como comandos de encenação, FTAE (mesmo que utilizada de uma forma um pouco diferente) e estabelecimento de regras realmente melhoram os resultados obtidos.
+
+> Foi possível notar ainda que as ferramentas utilizadas trazem particularidades em suas capacidades:
+>> - O Copilot aparenta sair-se melhor em habilidades de sinterizar e organização informação.
+>> - O ChatGPT gerou textos e descrições mais criativos e envolventes, tanto que estes foram a escolhidos para serem os textos presentes no conteúdo do e-book.
+>> - O Imagine Art, com todas as suas capacidades de parametrização, se mostrou uma ferramenta excelente para geração de imagens de acordo com a preferência do usuário, atuando como um ótimo substituto para o Midjourney.
+>> - Para o Copilot e ChatGPT, ainda é importante salientar que a acuracidade das informações geradas varia, sendo muito importante que o conteúdo dos outputs seja avaliado por um humano com conhecimento na temática apresentada. 
 </p>
 
 ## Conclusão 📝💡
 <p align="justify">
+Em resumo, a criação do e-book utilizando ferramentas de IA demonstrou a capacidades de potencializar resultados e produtividade, desde que as limitações e características de cada ferramenta sejam bem compreendidas.
+  
+O conhecimento das práticas exploradas no bootcamp "CAIXA - IA Generativa com Microsoft Copilot" para elaborar o presente projeto reforçou a importância do domínio técnico para extrair o melhor da inteligência artificial, evidenciando que estas ferramentas não substituem o conhecimento humano, mas sim o ampliam e otimizam.
+
+A utilização estratégica de prompts e a análise dos outputs foram importantes para o resultado do projeto, salientando que a qualidade dos resultados está diretamente ligada à expertise do usuário. Para o caso do presente projeto, um pouco de filtro já fez toda a diferença, portanto, se dedicado o tempo e esforço adequado para um refino total das informações, o resultado pode ser muito superior.
+
+Por fim, a experiência demonstrou que, embora as ferramentas apresentem nuances em suas capacidades, a combinação de suas forças – como a criatividade do ChatGPT, a organização do Copilot e a parametrização visual do Imagine Art – contribuem para a produção de um material robusto e inovador, validando o papel transformador da IA no suporte à criatividade e produtividade.
   
 </p>
 
 ## Referências Úteis 📚
 <p align="justify">
-  
+- ANVISA - Agência Nacional da Vigilância Sanitária - https://www.gov.br/anvisa/pt-br <br/> 
+- FDA - Food & Drug Administration - https://www.fda.gov/ <br/> 
+- EMA - European Medicines Agency - https://www.ema.europa.eu/en/homepage <br/> 
+- ISPE - International Society for Pharmaceutical Engineering - https://ispe.org/ <br/> 
+- PMDA - Pharmaceuticals and Medical Devices Agency - https://www.pmda.go.jp/english/
 </p>
 
 ## Licença 📄
@@ -206,5 +228,5 @@ The icons used in the e-book are from the website [IconArchive](https://www.icon
 
 ## Autor 🤓
 <p align="justify">
-  
+Luiz Lima - Q&R | VSC / CSV | Compliance & Melhoria Contínua - https://www.linkedin.com/in/luizslima/  
 </p>
