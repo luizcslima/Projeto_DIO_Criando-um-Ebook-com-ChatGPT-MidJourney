@@ -176,10 +176,12 @@ Ao focar na elaboração de e-books, este trabalho visa não apenas ilustrar o p
 O resultado do presente trabalho foi a introdução presente nesse arquivo readme.md e o e-book `<nome_ebook>`, que se encontra na pasta `<nome_da_pasta>` .
 </p>
 
+>ℹ️ **NOTA_9:** O título do e-book foi alterado por não conter propriamente "estratégias" para a validação de sistemas computadorizados.
+
 ## Discussão 📑
 <p align="justify">
   
->ℹ️ **NOTA_9:** A discussão aqui fornecida não foi gerada por ferramentas de IA. Caso contrário, perderia o propósito de discutir o uso da IA em si para a preparação do e-book e partes desse trabalho/projeto.
+>ℹ️ **NOTA_10:** A discussão aqui fornecida não foi gerada por ferramentas de IA. Caso contrário, perderia o propósito de discutir o uso da IA em si para a preparação do e-book e partes desse trabalho/projeto.
 
 
 
