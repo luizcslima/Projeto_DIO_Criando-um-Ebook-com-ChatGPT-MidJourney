@@ -173,7 +173,7 @@ Ao focar na elaboração de e-books, este trabalho visa não apenas ilustrar o p
 
 ## Resultados 🔎📊
 <p align="justify">
-O resultado do presente trabalho foi a introdução presente nesse arquivo readme.md e o e-book `<nome_ebook>`, que se encontra na pasta `<nome_da_pasta>` .
+O resultado do presente trabalho foi a introdução presente nesse arquivo readme.md e o e-book "PROJETO E-BOOK DIO - Validação para Sistemas Computadorizados - Luiz Lima.pdf", que se encontra na pasta "outputs" de respositório.
 </p>
 
 >ℹ️ **NOTA_9:** O título do e-book foi alterado por não conter propriamente "estratégias" para a validação de sistemas computadorizados.
