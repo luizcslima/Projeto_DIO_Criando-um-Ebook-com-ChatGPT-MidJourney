@@ -115,10 +115,19 @@ Acesso à plataforma: [DIO](https://dio.me)
 >1️⃣0️⃣  **AÇÃO #2:**
 >Estruturação do e-book utilizando o Microsoft Power Point.
 
->1️⃣1️⃣  **PROMPT #9 [COPILOT], [ChatGPT]:**
->
+>1️⃣1️⃣  **PROMPT #9 [COPILOT], [ChatGPT]:** (Múltiplos prompts alterando apenas o tema desejado para a parte em questão)
+>>"Aja como um especialista em validação de sistemas computadorizados, escritor de e-books e especialista em marketing digital.
+<Capítulo / tema > = **Capítulo / tema** --> 
+Função: Escrever um texto para e-book, com foco em validação de sistemas computadorizados para a indústria farmacêutica, especificamente para o <Capítulo / tema >.
+Tópico: <Capítulo / tema >
+Ação: Gerar 4 exemplos de textos que poder ser utilizados para falar do <Capítulo / tema > que irá fazer parte do e-book com foco em validação de sistemas computadorizados para a indústria farmacêutica, intitulado “Garantia Digital: Estratégias de Validação para Sistemas Computadorizados”.
+Expectativa: > Explique sempre de uma maneira técnica, mas simples. > Deixe o texto enxuto > Sempre que possível, traga exemplos, exceto para tópicos que não fazem sentido trazer exemplos, como introdução, contextualização do e-book, agradecimentos e relacionados. > Use fontes confiáveis, como FDA, ANVISA, EMEA, INVIMA, DIGEMID, PMDA, GAMP 5, WHO entre outras. > Itere e confira 10 vezes a resposta antes de gerar o texto, que deve ser cativante para o leitor."
+>>> Capítulos / temas:
+>>> - Introdução / Contextualização
+>>> - 
 
->1️⃣2️⃣  **AÇÃO #2:**
+
+>1️⃣2️⃣  **AÇÃO #3:**
 >Formatação e finalização do e-book utilizando os outputs gerados pela ferramenta de IA e o Microsoft Power Point. 
 
 ## Introdução ▶️⚡
