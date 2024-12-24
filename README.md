@@ -167,7 +167,7 @@ Ao focar na elaboração de e-books, este trabalho visa não apenas ilustrar o p
 2. Geração de Títulos Criativos<br/>
 3. Elaboração de Introdução Formal para e-Book<br/>
 
->ℹ️ **NOTA_X:** Ideia cancelada devido ao uso de múltiplas ferramentas de IA, o que quebra o fluxo de ações.
+>ℹ️ **NOTA_8:** Ideia cancelada devido ao uso de múltiplas ferramentas de IA, o que quebra o fluxo de ações.
 
 </p>
 
@@ -179,7 +179,7 @@ O resultado do presente trabalho foi a introdução presente nesse arquivo readm
 ## Discussão 📑
 <p align="justify">
   
->ℹ️ **NOTA_X:** A discussão aqui fornecida não foi gerada por ferramentas de IA. Caso contrário, perderia o propósito de discutir o uso da IA em si para a preparação do e-book e partes desse trabalho/projeto.
+>ℹ️ **NOTA_9:** A discussão aqui fornecida não foi gerada por ferramentas de IA. Caso contrário, perderia o propósito de discutir o uso da IA em si para a preparação do e-book e partes desse trabalho/projeto.
 
 
 
