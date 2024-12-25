@@ -34,7 +34,7 @@ Acesso à plataforma: [DIO](https://dio.me)
 - [ImagineArt](https://www.imagine.art) -- Geração de imagens (substituto do MidJourney)
 - [PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoint) -- Ferramenta de diagramação
 
-1️⃣2️⃣3️⃣4️⃣5️⃣6️⃣7️⃣8️⃣9️⃣
+
 ## Passo-a-Passo
 
 > 1️⃣ **PROMPT #1 [COPILOT] - Usando "Act Commands" para direcionar e explorar as capacidades da ferramenta:**
