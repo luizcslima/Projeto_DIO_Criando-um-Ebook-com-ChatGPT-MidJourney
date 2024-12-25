@@ -186,15 +186,15 @@ As imagens geradas por IA e ícones utilizados no e-book também se encontram na
 > Ao preparar o e-book com auxílio de ferramentas de IA, houve uma sinergia com o conteúdo apresentado durante o bootcamp "CAIXA - IA Generativa com Microsoft Copilot" da DIO, especificamente da seção "Projetos Práticos com IA" onde as expectativas foram estabelecidas logo de início:
 
 > - As ferramentas de IA são **ferramentas** para auxílio e aumento da produtividade (pelo menos no momento atual em que esse trabalho foi elaborado).
-> - As ferramentas de IA possuem um resultado que pode ser refinado e aproveitado muito melhor por alguém que possui conhecimento do tema sendo tratado, onde o indivíduo com conhecimento da temática será capaz de definir a qualidade dos outputs gerados pela IA e refinar os propmts conforme a necessidade para resultados mais interessantes.
+> - As ferramentas de IA possuem um resultado que pode ser refinado e aproveitado muito melhor por alguém que possui conhecimento do tema sendo tratado, onde o indivíduo com conhecimento da temática será capaz de definir a qualidade dos outputs gerados pela IA e refinar os prompts conforme a necessidade para resultados mais interessantes.
 
 > O e-book gerado para esse projeto em si não teve seus resultados muito corrigidos, ao invés disso, foi solicitado às ferramentas de IA a geração de múltiplos outputs a partir de um mesmo prompt para que fosse possível eleger e/ou combinar os resultados obtidos.
 
 > Foi possível notar que técnicas de elaboração de prompts, como comandos de encenação, FTAE (mesmo que utilizada de uma forma um pouco diferente) e estabelecimento de regras realmente melhoram os resultados obtidos.
 
 > Foi possível notar ainda que as ferramentas utilizadas trazem particularidades em suas capacidades:
->> - O Copilot aparenta sair-se melhor em habilidades de sinterizar e organização informação.
->> - O ChatGPT gerou textos e descrições mais criativos e envolventes, tanto que estes foram a escolhidos para serem os textos presentes no conteúdo do e-book.
+>> - O Copilot aparenta sair-se melhor em habilidades de sintetizar e organizar a informação.
+>> - O ChatGPT gerou textos e descrições mais criativos e envolventes, tanto que estes foram os escolhidos para serem os textos presentes no conteúdo do e-book.
 >> - O Imagine Art, com todas as suas capacidades de parametrização, se mostrou uma ferramenta excelente para geração de imagens de acordo com a preferência do usuário, atuando como um ótimo substituto para o Midjourney.
 >> - Para o Copilot e ChatGPT, ainda é importante salientar que a acuracidade das informações geradas varia, sendo muito importante que o conteúdo dos outputs seja avaliado por um humano com conhecimento na temática apresentada. 
 </p>
