@@ -73,9 +73,9 @@ Acesso à plataforma: [DIO](https://dio.me)
 
 >8️⃣  **PROMPT #7 [COPILOT], [ChatGPT], [ImagineArt]:**
 >Desenvolva uma capa para e-book focado em validação de sistemas computadorizados na indústria farmacêutica. A imagem deve mostrar um laboratório moderno com computadores e equipamentos de teste, destacando a precisão e a confiabilidade da tecnologia na indústria farmacêutica. A estética deve ser profissional e realista, com alta resolução, adequada para profissionais e executivos do setor.
->>**Output escolhidos:** Os outputs escolhidos estão na pasta `<nome_da_pasta>`.
->>Copilot -- Gerou 1 imagem
->>ChatGPT -- Gerou 1 imagem
+>>**Output escolhidos:** Os outputs escolhidos estão na pasta "outputs".<br/>
+>>Copilot -- Gerou 1 imagem <br/>
+>>ChatGPT -- Gerou 1 imagem <br/>
 >>ImagineArt -- Gerou 4 imagens
 >>>ℹ️ **NOTA_6:** O ImagineArt possui configurações para ajuste da geração das imagens. As relevantes para geração de imagens similares foram Models: "Realism"; Aspect Ratio: "9:16"; Effects/Lighthing: "Silhouette".
 <br/>
