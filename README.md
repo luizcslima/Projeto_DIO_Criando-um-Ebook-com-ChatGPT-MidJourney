@@ -73,7 +73,7 @@ Acesso à plataforma: [DIO](https://dio.me)
 
 >8️⃣  **PROMPT #7 [COPILOT], [ChatGPT], [ImagineArt]:**
 >Desenvolva uma capa para e-book focado em validação de sistemas computadorizados na indústria farmacêutica. A imagem deve mostrar um laboratório moderno com computadores e equipamentos de teste, destacando a precisão e a confiabilidade da tecnologia na indústria farmacêutica. A estética deve ser profissional e realista, com alta resolução, adequada para profissionais e executivos do setor.
->>**Output escolhidos:** Os outputs escolhidos estão na pasta "outputs".<br/>
+>>**Output escolhidos:** Os outputs escolhidos estão na pasta "assets".<br/>
 >>Copilot -- Gerou 1 imagem <br/>
 >>ChatGPT -- Gerou 1 imagem <br/>
 >>ImagineArt -- Gerou 4 imagens
@@ -174,7 +174,7 @@ Ao focar na elaboração de e-books, este trabalho visa não apenas ilustrar o p
 ## Resultados 🔎📊
 <p align="justify">
 O resultado do presente trabalho foi a introdução presente nesse arquivo readme.md e o e-book "PROJETO E-BOOK DIO - Validação para Sistemas Computadorizados - Luiz Lima.pdf", que se encontra na pasta "outputs" de respositório.
-As imagens geradas por IA e ícones utilizados no e-book também se encontram na mesma localização.  
+As imagens geradas por IA e ícones utilizados no e-book encontram-se na past "assets".  
 </p>
 
 >ℹ️ **NOTA_9:** O título do e-book foi alterado por não conter propriamente "estratégias" para a validação de sistemas computadorizados.
