@@ -173,7 +173,7 @@ Ao focar na elaboração de e-books, este trabalho visa não apenas ilustrar o p
 
 ## Resultados 🔎📊
 <p align="justify">
-O resultado do presente trabalho foi a introdução presente nesse arquivo readme.md e o e-book "PROJETO E-BOOK DIO - Validação para Sistemas Computadorizados - Luiz Lima.pdf", que se encontra na pasta "outputs" de respositório.
+O resultado do presente trabalho foi o conteúdo presente nesse arquivo readme.md e o e-book "PROJETO E-BOOK DIO - Validação para Sistemas Computadorizados - Luiz Lima.pdf", que se encontra na pasta "outputs" de respositório.
 As imagens geradas por IA e ícones utilizados no e-book encontram-se na past "assets".  
 </p>
 
